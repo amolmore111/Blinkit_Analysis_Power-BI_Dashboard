@@ -2,11 +2,11 @@
 ## Dashboard Preview
 ![Screenshot 1](https://github.com/user-attachments/assets/0749baea-8b23-459e-86f5-45838073dcf6)
 
-### Overview of the Project
+## Overview of the Project
 This project aims to develop a comprehensive Power BI dashboard to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. By utilizing various Key Performance Indicators (KPIs) and visualizations, the dashboard provides critical insights and identifies opportunities for optimization. This dashboard is designed to aid decision-making by highlighting trends and patterns in the data.
 
-# Project Stages
-# 1. Requirement Gathering
+## Project Stages
+### 1. Requirement Gathering
 Objective: Understand the business requirements and the key metrics to be tracked.
 Tasks:
 Conduct meetings with stakeholders to gather detailed requirements.
