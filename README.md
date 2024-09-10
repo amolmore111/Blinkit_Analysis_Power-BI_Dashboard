@@ -1,5 +1,5 @@
 # Blinkit Analysis: Data-Driven Insights for Sales Performance, Customer Satisfaction, and Inventory Distribution
-# Dashboard Preview
+## Dashboard Preview
 ![Screenshot 1](https://github.com/user-attachments/assets/0749baea-8b23-459e-86f5-45838073dcf6)
 
 # Overview of the Project
