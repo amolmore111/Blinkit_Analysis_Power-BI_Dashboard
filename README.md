@@ -7,14 +7,16 @@ This project aims to develop a comprehensive Power BI dashboard to analyze Blink
 
 ## Project Stages
 ### 1. Requirement Gathering
-#### Objective: 
+Objective: 
 Understand the business requirements and the key metrics to be tracked.
-#### Tasks:
+
+Tasks:
 Conduct meetings with stakeholders to gather detailed requirements.
 Identify the main KPIs that are important for business decisions.
 Define the scope and objectives of the analysis.
 ### 2. Data Walkthrough
 Objective: Familiarize with the data structure, fields, and data types.
+
 Tasks:
 Review the dataset to understand the available fields and their relationships.
 Identify any data quality issues or missing data points.
